@@ -1,0 +1,4 @@
+crewai==0.51.1
+crewai_tools==0.8.3
+langchain_google_genai==1.0.10
+python-dotenv==1.0.1
